@@ -1,9 +1,7 @@
 # Pizza-Kitchen
 
-<h3>Photos from diffrent devices:</h3>
-
 <div id="header" align="center">
-  <img src="file:///D:/TruCourses/WebDsigning/BehzadRamezaniFinalProject/index.html" width="30%"/>
+  <img src="https://th.bing.com/th/id/R.7bb7fac530937bb2b7c86cfc3ec27791?rik=VKWSUP%2b%2fKzWUKQ&pid=ImgRaw&r=0" width="30%"/>
 </div>
 
 <h3>Description:</h3>
