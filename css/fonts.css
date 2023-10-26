@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('webfonts/Lato-Bold.eot');
+    src: url('webfonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/Lato-Bold.woff2') format('woff2'),
+        url('webfonts/Lato-Bold.woff') format('woff'),
+        url('webfonts/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('webfonts/Lato-Light.eot');
+    src: url('webfonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/Lato-Light.woff2') format('woff2'),
+        url('webfonts/Lato-Light.woff') format('woff'),
+        url('webfonts/Lato-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('webfonts/Lato-Regular.eot');
+    src: url('webfonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/Lato-Regular.woff2') format('woff2'),
+        url('webfonts/Lato-Regular.woff') format('woff'),
+        url('webfonts/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
