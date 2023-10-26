@@ -3,7 +3,7 @@
 <h3>Photos from diffrent devices:</h3>
 
 <div id="header" align="center">
-  <img src="mobile (2).png" width="30%"/>
+  <img src="file:///D:/TruCourses/WebDsigning/BehzadRamezaniFinalProject/index.html" width="30%"/>
 </div>
 
 <h3>Description:</h3>
