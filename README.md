@@ -5,4 +5,4 @@
 </div>
 
 <h3>Description:</h3>
-This is the website project which is called "Pizza Kitchen" 
+This is the website project which is called "Pizza Kitchen". It has five pages. This project is provided by using <b>HTML, CSS, and JavaScript</b>.
